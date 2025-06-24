@@ -1,0 +1,3 @@
+tkinter
+# Note: tkinter typically comes pre-installed with Python
+# No additional external dependencies required for this project
