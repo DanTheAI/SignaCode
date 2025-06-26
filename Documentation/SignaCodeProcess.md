@@ -1,5 +1,7 @@
 # SignaCode Build Process: Hypergeometric Distribution Calculator
 
+SignaCodeGPT: https://chatgpt.com/g/g-67827be5d7b8819184aafbee9054f8e0-signacode
+
 ## Overview of SignaCode Framework
 SignaCode is a mental framework for transforming ideas into code through structured symbolic layers:
 
